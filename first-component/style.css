@@ -1,9 +1,9 @@
-.boxContainer {
+.boxContainer {  /* This sets up the spacing and alignment for the boxes */
     display: flex;
     flex-direction: row;
 }
 
-.redBox {
+.redBox {  /* Each of these classes sets up the shape of the box and the color */
         background-color: #F36523;
         height: 30px;
         width: 30px
