@@ -1,0 +1,32 @@
+.boxContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.redBox {
+        background-color: #F36523;
+        height: 30px;
+        width: 30px
+        
+}
+
+.greenBox {
+        background-color: #8DC73F;
+        height: 30px;
+        width: 30px
+        
+}
+
+.blueBox {
+    background-color: #00adef;
+    height: 30px;
+    width: 30px
+    
+}
+
+.yellowBox {
+    background-color: #FFC20F;
+    height: 30px;
+    width: 30px
+    
+}
