@@ -1,12 +1,14 @@
 .boxContainer {  /* This sets up the spacing and alignment for the boxes */
     display: flex;
     flex-direction: row;
+    margin-bottom: 5px;
 }
 
 .redBox {  /* Each of these classes sets up the shape of the box and the color */
         background-color: #F36523;
         height: 30px;
-        width: 30px
+        width: 30px;
+        margin-right: 5px;
         
 }
 
@@ -20,7 +22,8 @@
 .blueBox {
     background-color: #00adef;
     height: 30px;
-    width: 30px
+    width: 30px;
+    margin-right: 5px;
     
 }
 
